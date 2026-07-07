@@ -2,6 +2,8 @@
 
 Thank you for your interest.
 
-Citadel Core is currently in early-stage development.
+Citadel Core is currently under active architectural development.
 
-Public contributions may be accepted in the future as the platform matures.
+Public contributions are limited while the core architecture is being stabilized.
+
+Contribution guidelines will be published as the platform matures.
