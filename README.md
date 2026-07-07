@@ -1,51 +1,56 @@
 # Citadel Core
 
-Autonomous Infrastructure Platform for distributed systems.
+Autonomous Infrastructure Platform.
 
-Citadel Core is an early-stage infrastructure platform focused on autonomous cloud-native execution.
+Citadel Core is a long-term engineering platform focused on autonomous infrastructure capable of observing, deciding and executing workloads across cloud, blockchain and future intelligent runtimes.
 
-The long-term vision is to build infrastructure capable of observing system state, making decisions and executing workloads across multiple runtime environments with minimal human intervention.
+The project is built incrementally. Current work focuses on creating a production-grade execution foundation that later evolves into a fully autonomous infrastructure platform.
 
-## Current Focus
-
-Current development focuses on:
-
-- Blockchain infrastructure
-- Real-time indexing
-- Distributed execution engines
-- Cloud-native orchestration
-- Autonomous infrastructure
+---
 
 ## Vision
 
-Citadel Core is evolving toward a unified execution platform where infrastructure, intelligent runtimes and distributed systems operate as one continuously adapting environment.
+Infrastructure should no longer be manually operated.
 
-## Technology
+Citadel Core aims to transform infrastructure into an autonomous execution system capable of continuously observing state, making decisions and executing actions with minimal human intervention.
 
-Current implementation includes technologies such as:
+Observe → Decide → Execute → Recover → Adapt
 
-- Rust
-- Kubernetes
-- Talos Linux
-- Crossplane
-- FluxCD
-- WebAssembly (WASM)
-- WASI
-- V8 / workerd
-- eBPF
-- Cilium
-- Cloudflare
-- AWS
+---
 
-These technologies are implementation details. The product is the platform itself.
+## Current Focus
+
+- Autonomous blockchain infrastructure
+- Distributed execution
+- Cloud-native orchestration
+- Real-time indexing
+- Infrastructure automation
+
+---
+
+## Philosophy
+
+Technology is not the product.
+
+Rust, Kubernetes, Talos, eBPF, Crossplane, WebAssembly and AI are implementation components serving one product:
+
+**Citadel Core.**
+
+---
 
 ## Status
 
-Early-stage
+Research Preview
 
-Bootstrapped
+Actively developed.
 
-Actively under development.
+---
+
+## Documentation
+
+See the `/docs` directory.
+
+---
 
 ## Website
 
