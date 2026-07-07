@@ -1,27 +1,33 @@
 # Roadmap
 
-## Phase 1
+## Foundation
 
 - Autonomous blockchain infrastructure
-- Real-time indexing
 - Distributed execution engine
 - Infrastructure automation
+- Real-time indexing
 
-## Phase 2
+---
+
+## Platform
 
 - Infrastructure Intent API
 - Multi-runtime execution
 - Cloud-native orchestration
 - Self-healing infrastructure
 
-## Phase 3
+---
+
+## Runtime
 
 - AI Runtime
 - Edge Runtime
-- WASM execution environment
-- Runtime scheduling
+- WASM Runtime
+- Runtime Scheduler
 
-## Phase 4
+---
+
+## Autonomy
 
 - Autonomous infrastructure platform
 - Unified execution layer
