@@ -1,9 +1,9 @@
 # Contributing
 
-Thank you for your interest.
+Thank you for your interest in Citadel Core.
 
-Citadel Core is currently under active architectural development.
+The project is currently focused on research, architecture and core implementation.
 
-Public contributions are limited while the core architecture is being stabilized.
+Public contributions are intentionally limited while the platform foundation is being established.
 
-Contribution guidelines will be published as the platform matures.
+Contribution guidelines will be available as the project matures.
