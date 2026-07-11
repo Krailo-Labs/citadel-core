@@ -4,6 +4,10 @@
 
 No.
 
+## Is Citadel Core a cloud platform?
+
+No.
+
 ## Is Citadel Core a blockchain platform?
 
 No.
@@ -12,4 +16,8 @@ No.
 
 No.
 
-Citadel Core is an autonomous infrastructure platform capable of orchestrating multiple execution environments.
+## What is Citadel Core?
+
+Citadel Core is an autonomous infrastructure representation for composing, operating and evolving distributed execution systems.
+
+It provides a unified operational model capable of combining cloud-native infrastructure, blockchain networks and future execution environments into one coherent system.
