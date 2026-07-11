@@ -1,13 +1,19 @@
 # Architecture
 
-Citadel Core is organized as independent execution components sharing one autonomous infrastructure core.
+Citadel Core is organized as a modular infrastructure representation.
 
-Execution runtimes may include:
+Core building blocks may include:
 
-- Cloud
-- Blockchain
+- Cloud Infrastructure
+- Kubernetes
+- Blockchain Networks
+- Databases
+- Runtime Systems
+- Networking
+- Storage
+- Security
 - AI
 - Edge
 - WASM
 
-All runtimes share the same observation, decision and execution model.
+Each component remains independent while participating in one unified infrastructure model.
