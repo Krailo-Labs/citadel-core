@@ -1,7 +1,14 @@
 # Code of Conduct
 
-Be respectful.
+Citadel Core values:
 
-Be constructive.
+- Respect
+- Curiosity
+- Constructive collaboration
+- Engineering excellence
 
-Focus on engineering excellence.
+Build systems.
+
+Share knowledge.
+
+Help others improve.
