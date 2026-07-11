@@ -1,15 +1,7 @@
 # Philosophy
 
-Infrastructure is becoming software.
+Infrastructure is a system.
 
-Software is becoming autonomous.
+Individual technologies are implementation details.
 
-Technology is temporary.
-
-Architecture is long-term.
-
-Citadel Core is designed around engineering principles rather than individual technologies.
-
-Every technology used by the platform is replaceable.
-
-The architecture is not.
+Cloud providers, Kubernetes, blockchain networks, databases and runtimes should become interchangeable building blocks of one coherent infrastructure representation.
