@@ -17,3 +17,11 @@ Intent
 
 Autonomy
 : Infrastructure capable of operating with minimal human intervention.
+# Glossary
+
+Representation
+: A complete operational system assembled from independent infrastructure components.
+
+System
+: A coherent infrastructure assembled from multiple components.
+
