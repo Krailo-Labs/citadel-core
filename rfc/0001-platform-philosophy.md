@@ -8,12 +8,16 @@ Accepted
 
 ## Motivation
 
-Infrastructure should become autonomous.
+Modern infrastructure consists of many independent systems.
+
+Building and operating complete environments should not depend on specific vendors, platforms or technologies.
 
 ## Decision
 
-Citadel Core will be designed around execution autonomy rather than individual technologies.
+Citadel Core defines a unified representation for composing autonomous infrastructure systems.
 
-Technologies may change.
+Independent components become one coherent operational system while preserving modularity, distribution and cloud-native principles.
 
-Architecture must remain stable.
+Technologies evolve.
+
+The representation remains stable.
