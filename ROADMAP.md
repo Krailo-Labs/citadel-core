@@ -2,33 +2,34 @@
 
 ## Foundation
 
-- Autonomous blockchain infrastructure
-- Distributed execution engine
-- Infrastructure automation
-- Real-time indexing
+- Infrastructure Representation
+- Autonomous Infrastructure
+- Distributed Systems
+- Cloud-Native Foundation
 
 ---
 
-## Platform
+## Composition
 
-- Infrastructure Intent API
-- Multi-runtime execution
-- Cloud-native orchestration
-- Self-healing infrastructure
+- Infrastructure Intent
+- Modular Components
+- System Composition
+- Infrastructure Operations
 
 ---
 
 ## Runtime
 
-- AI Runtime
-- Edge Runtime
-- WASM Runtime
-- Runtime Scheduler
+- Multi-runtime Execution
+- Runtime Orchestration
+- Cloud & Web3 Execution
+- Execution Lifecycle
 
 ---
 
-## Autonomy
+## Evolution
 
-- Autonomous infrastructure platform
-- Unified execution layer
-- Distributed runtime ecosystem
+- Autonomous Operations
+- Unified Infrastructure Model
+- Extensible Infrastructure
+- Continuous Evolution
